@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Georama', sans-serif;
+}
+.banner-image{
+    background-image: url('assets/banner.jpg');
+    background-size: cover;
+}
