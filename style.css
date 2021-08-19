@@ -88,5 +88,11 @@ footer{
 /* BODY OF INDEX */
 .border-left{
     border-left: 10px solid crimson;
-    margin-right: px;
 }
+
+/* CARD */
+.card{
+    margin-bottom: 10px;
+}
+
+
